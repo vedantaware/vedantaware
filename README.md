@@ -267,7 +267,7 @@ Working on technical initiatives, projects and developer-community activities ar
 
 ### AI/ML ENGINEERING
 
-**Third-Year AI/ML Student — SPPU**
+**Second-Year AI/ML Student — SPPU**
 
 Building projects across artificial intelligence, machine learning, full-stack development, computer vision and automation.
 
